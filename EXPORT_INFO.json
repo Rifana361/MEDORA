@@ -1,0 +1,11 @@
+{
+  "project": "MEDORA",
+  "creator": "Rifana",
+  "development_assistance": "ChatGPT",
+  "export_date": "2026-11-10",
+  "source_commit": "6dbd893966cf372ae57284ea0369e24fbcd2409e",
+  "published_version_at_export": 22,
+  "changes_for_export": ["Added GitHub and setup documentation", "Added local database migration helper", "Removed the original hosted project ID", "Renamed package to medora and added check/test/db:local commands"],
+  "not_included": ["Git history and credentials", "API keys", "Private notebooks and uploads", "Local databases", "Dependencies and compiled output"],
+  "deployment_note": "Source export only; external deployment and production authentication need configuration."
+}
